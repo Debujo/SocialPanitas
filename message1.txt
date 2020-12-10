@@ -1,0 +1,9 @@
+¡Hola ${PERSON_NAME}! ¡Bienvenido a SocialPanitas!
+
+Para que puedas empezar a los demás usuarios vamos a necesitar que nos respondas completando el siguiente formulario.
+
+GENERO: 1 = HOMBRE, 2 = MUJER, 3 = PREFIERO NO DECIRLO
+RANGO DE EDAD: 1 = [18-24], 2 = [25-31], 3 = [32, 38], 4 = >39
+OBJETIVO: 1 = CONOCER, 2 = LIGAR
+
+De esta manera intentaremos juntarte con personas que de tu edad y el mismo objetivo que tú.
